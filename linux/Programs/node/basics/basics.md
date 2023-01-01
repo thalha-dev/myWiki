@@ -221,3 +221,6 @@ rs.on("data", (dataChunk) => {
 rs.pipe(ws);
 
 ```
+```javascript
+console.log("hello")
+```
